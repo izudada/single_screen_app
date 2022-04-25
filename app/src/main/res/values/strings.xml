@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="business_name">Star Couture</string>
+    <string name="location">79 Stadium Road, Rumuomasi,Port Harcourt</string>
+    <string name="ig">_starcouture</string>
+    <string name="about">About Us</string>
+    <string name="about_text">
+        We started Star Couture because we wanted to create African identity in both
+        male and female fashion while giving them the comfort of looking the part
+        in any environment they find themselves.
+    </string>
+</resources>
